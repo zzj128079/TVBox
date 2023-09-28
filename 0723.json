@@ -4,13 +4,12 @@
 
 	"lives":[
 		{
-			"group": "中央",
-      			"channels": [
-      				  {
-         				 "name": "CCTV-1 综合",
-         				 "urls": ["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8"],
-					 "epg":"http://epg.112114.xyz/?ch=CCTV1"
-				  }]
+			"group":"redirect",
+			"channels":[
+				{
+					"name":"redirect",
+					"urls":["proxy://do=live&type=txt&ext=Y2xhbjovL2xvY2FsaG9zdC90dmJveC9saXZlMS50eHQ="]
+				}]
 		}],
 
 
