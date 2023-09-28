@@ -9,7 +9,7 @@
       				  {
          				 "name": "CCTV-1 综合",
          				 "urls": ["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8"],
-					 "logo":["https://epg.112114.xyz/logo/CCTV1.png"]
+					 "logo":["https://epg.112114.xyz/logo/CCTV1.png"],
 					  "epg":["http://epg.112114.xyz/?ch=CCTV1"]
 				  }]
 		}],
