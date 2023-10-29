@@ -12,7 +12,7 @@ CCTV-4中文国际,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
 CCTV-5体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5体育,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
-CCTV-5+体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV5+体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-5+体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 CCTV-5+体育赛事,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
 CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
@@ -43,9 +43,9 @@ CCTV-16奥林匹克,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3
 CCTV-16奥林匹克,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
 CCTV-17农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CCTV-17农业农村,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
-CCTV-4K超高清,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+CCTV4K超高清,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV-4K超高清,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
-CCTV-8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CETV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8?
 CETV1,https://cntv.sbs/tv?auth=2310201855&id=cetv1
 CETV1,http://111.40.196.27:443/0000000000001000/5000000002000002652/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000002652
