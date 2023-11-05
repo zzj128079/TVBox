@@ -1,9 +1,9 @@
 央视频道,#genre#
-CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225804/index.m3u8
+CCTV-1综合,http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226231/index.m3u8
 CCTV-1综合,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
-CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226224/index.m3u8
+CCTV-2财经,http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226195/index.m3u8
 CCTV-2财经,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
 CCTV-3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV-3综艺,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
@@ -79,8 +79,8 @@ CETV4,http://111.40.196.27:443/0000000000001000/5000000011000031126/index.m3u8?l
 早期教育,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
 卫视频道,#genre#
 北京卫视,http://58.220.219.14:9901/tsfile/live/0122_1.m3u8?key=txiptv
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
+北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225796/index.m3u8
+北京卫视,http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226222/index.m3u8
 卡酷少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 卡酷少儿,
 卡酷少儿,
@@ -89,7 +89,7 @@ CETV4,http://111.40.196.27:443/0000000000001000/5000000011000031126/index.m3u8?l
 纪实科教,
 天津卫视,http://58.220.219.14:9901/tsfile/live/0135_1.m3u8?key=txiptv
 天津卫视,http://122.224.153.162:9901/tsfile/live/0135_1.m3u8?key=txiptv
-天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+天津卫视,http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226204/index.m3u8
 河北卫视,http://58.220.219.14:9901/tsfile/live/0117_1.m3u8?key=txiptv
 河北卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
 河北卫视,http://mqiptv.com:8014/ch/hebeiws/mqlive.m3u8
@@ -104,7 +104,7 @@ CETV4,http://111.40.196.27:443/0000000000001000/5000000011000031126/index.m3u8?l
 内蒙古蒙古语卫视,
 辽宁卫视,http://122.224.153.162:9901/tsfile/live/0121_1.m3u8?key=txiptv
 辽宁卫视,http://58.220.219.14:9901/tsfile/live/0121_1.m3u8?key=txiptv
-辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+辽宁卫视,http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226201/index.m3u8
 吉林卫视,
 吉林卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
 吉林卫视,https://live.goodiptv.club/api/cqyx.php?id=jilinHD
